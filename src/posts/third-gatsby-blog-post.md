@@ -1,8 +1,8 @@
 ---
-title: "Second Gatsby Blog Post"
-date: "2020-01-19"
-featured: "../images/second-post.png"
-category: "Gatsby"
+title: "Third Gatsby Blog Post"
+date: "2020-02-20"
+featured: "../images/third-post.png"
+category: "React"
 ---
 
 Seprehenderit accusamus, explicabo eligendi necessitatibus soluta!
