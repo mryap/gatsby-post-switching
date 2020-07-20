@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Ibas Majid",
-    description: "I teach JavaScript, React, GraphQL and Gatsby",
-    author: "Ibaslogic",
+    title: "Mr. Yap",
+    description: "Web Analyst, Website and A/B Testing specialist",
+    author: "Mr. Yap",
   },
   plugins: [
     "gatsby-plugin-react-helmet",

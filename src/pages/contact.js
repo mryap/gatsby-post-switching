@@ -7,7 +7,7 @@ const Contact = () => {
     <Layout>
       <Metadata title="Contact" description="Get in touch with us" />
       <h1>Contact Page</h1>
-      <p>You can find Ibas on Twitter via @ibaslogic</p>
+      <p>Let connect on Twitter via @mryap</p>
     </Layout>
   )
 }
